@@ -68,8 +68,8 @@
     border-bottom-right-radius: 5px;
     font-family: var(--font-family);
     font-weight: bold;
-    font-size: 20px;
-    line-height: 27px;
+    font-size: 12px;
+    line-height: 18px;
     color: #FFFFFF;
     cursor: pointer;
     outline: none;
@@ -143,8 +143,8 @@
 
     .gpt3__header-content__input input,
     .gpt3__header-content__input button {
-        font-size: 16px;
-        line-height: 24px;
+        font-size: 12px;
+        line-height: 18px;
     }
 }
 
@@ -161,7 +161,7 @@
 
     .gpt3__header-content__input input,
     .gpt3__header-content__input button {
-        font-size: 12px;
+        font-size: 10px;
         line-height: 16px;
     }
 }
